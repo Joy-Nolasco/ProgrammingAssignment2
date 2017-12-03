@@ -41,6 +41,6 @@ cacheSolve <- function(x, ...) {
         inv
 }
 ## NOTE: matrix should be a square; cannot be matrix (1:5,5,2)
-this_matrix <- makeCacheMatrix(matrix (1:4,2,2))
-this_matrix$get()
-#### end##
+##this_matrix <- makeCacheMatrix(matrix (1:4,2,2))
+##this_matrix$get()
+## end ###
